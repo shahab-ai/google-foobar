@@ -1,17 +1,20 @@
 ```
 The cake is not a lie!
 ======================
+
 Commander Lambda has had an incredibly successful week: she completed the first
 test run of her LAMBCHOP doomsday device , she captured six key members of the
 Bunny Rebellion , and she beat her personal high score in Tetris. To celebrate,
 she’s ordered cake for everyone – even the lowliest of minions! But competition
 among minions is fierce , and if you don’t cut exactly equal slices of cake for
-everyone , you’ll get in big trouble.  
+everyone , you’ll get in big trouble.
+
 The cake is round , and decorated with M&Ms in a circle around the edge. But
 while the rest of the cake is uniform, the M&Ms  are not: there are multiple
 colors, and every minion must get exactly the same sequence of M&Ms. Commander
 Lambda hates waste and will not tolerate any leftovers , so you also want to
 make sure you can serve the entire cake.
+
 To help you best cut the cake, you have turned the sequence of colors of the
 M&Ms on the cake into a string: each possible letter (between a and z)
 corresponds to a unique color, and the sequence of M&Ms is given clockwise (the
@@ -23,11 +26,13 @@ leftovers.
 
 Languages
 =========
+
 To provide a Python solution, edit solution.py
 To provide a Java solution, edit solution.java
 
 Test cases
 ==========
+
 Inputs:
         (string) s = "abccbaabccba"
 Output:
@@ -39,9 +44,4 @@ Output:
 Use verify [file] to test your solution and see how it does. When you are
 finished editing your code, use submit [file] to submit your answer. If your
 solution passes the test cases, it will be removed from your home folder.
-
-foobar:-/the_cake_is_not_a_lie sh.arabshahis verify salution.py
-Verifying solution. . .
-All test cases passed. Use submit solution.py to submit your solution.
-
 ```
