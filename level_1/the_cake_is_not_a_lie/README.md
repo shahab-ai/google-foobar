@@ -39,4 +39,9 @@ Output:
 Use verify [file] to test your solution and see how it does. When you are
 finished editing your code, use submit [file] to submit your answer. If your
 solution passes the test cases, it will be removed from your home folder.
+
+foobar:-/the_cake_is_not_a_lie sh.arabshahis verify salution.py
+Verifying solution. . .
+All test cases passed. Use submit solution.py to submit your solution.
+
 ```
