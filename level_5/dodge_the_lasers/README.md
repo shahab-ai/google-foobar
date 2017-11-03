@@ -2,7 +2,8 @@
 Dodge the Lasers!
 =================
 
-Oh no! You’ve managed to escape Commander Lambdas collapsing space station in an escape pod with the rescued bunny prisoners – but Commander Lambda isn’t about
+Oh no! You’ve managed to escape Commander Lambdas collapsing space station in an
+escape pod with the rescued bunny prisoners – but Commander Lambda isn’t about
 to let you get away that easily. She’s sent her elite fighter pilot squadron
 after you – and they’ve opened fire!
 
