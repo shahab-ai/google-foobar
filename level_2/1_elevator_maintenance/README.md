@@ -50,7 +50,7 @@ Inputs:
     (string list) l = ["1.11", "2.0.0", "1.2", "2", "0.1", "1.2.1", "1.1.1",
                        "2.0"]
 Output:
-    (string list) l = ["0. 1", "1.1.1", "1.2", "1.2.1", "1.11", "2", "2.0",
+    (string list) l = ["0.1", "1.1.1", "1.2", "1.2.1", "1.11", "2", "2.0",
                        "2.0.0"]
 
 Use verify [file] to test your solution and see how it does. When you are
