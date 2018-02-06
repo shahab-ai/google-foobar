@@ -42,15 +42,19 @@ Test cases
 ==========
 
 Inputs:
-        (string list) l = ["1.1.2", "1.0", "1.3.3", "1.0.12", "1.0.2"]
+    (string list) l = ["1.1.2", "1.0", "1.3.3", "1.0.12", "1.0.2"]
 Output:
-        (string list) l = ["1. 0", "1.0.2", "1.0.12", "1.1. 2", "1.3.3"]
+    (string list) l = ["1.0", "1.0.2", "1.0.12", "1.1.2", "1.3.3"]
+
 Inputs:
-        (string list) l = ["1.11", "2.0.0", "1.2", "2", "0.1", "1.2.1", "1.1.1",
-        "2.0"]
+    (string list) l = ["1.11", "2.0.0", "1.2", "2", "0.1", "1.2.1", "1.1.1",
+                       "2.0"]
 Output:
-        (string list) l = ["0. 1", "1.1.1", "1.2", "1.2.1", "1.11", "2", "2.0",
-        "2.0.0"]
+    (string list) l = ["0. 1", "1.1.1", "1.2", "1.2.1", "1.11", "2", "2.0",
+                       "2.0.0"]
+
 Use verify [file] to test your solution and see how it does. When you are
 finished editing your code, use submit [file] to submit your answer.
+If your solution passes the test cases, it will be removed from your home
+folder.
 ```
